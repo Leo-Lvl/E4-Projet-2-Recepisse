@@ -3,7 +3,8 @@
 ## Sommaire
 1. [Presentation](#presentation)
 2. [Outils](#Outils)
-3. [LeSite](#LeSite)
+3. [BaseDeDonnée](#BaseDeDonnée)
+4. [LeSite](#LeSite)
 
 ## Presentation
 ***
@@ -17,6 +18,13 @@
 * Visual Studio 2017
 * Visual Studio Code
 * MySQL
+
+## BaseDeDonnée
+***
+<img src="image/DiagrammePlantUML.png" width="550"/><br>
+
+Voici le diagramme PlantUML fait à l'aide de la base de donnée en SQL.
+
 
 ## LeSite
 ***
