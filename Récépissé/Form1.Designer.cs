@@ -35,9 +35,9 @@
             // 
             // BAgentDSI
             // 
-            this.BAgentDSI.Location = new System.Drawing.Point(277, 199);
+            this.BAgentDSI.Location = new System.Drawing.Point(187, 199);
             this.BAgentDSI.Name = "BAgentDSI";
-            this.BAgentDSI.Size = new System.Drawing.Size(75, 23);
+            this.BAgentDSI.Size = new System.Drawing.Size(166, 56);
             this.BAgentDSI.TabIndex = 0;
             this.BAgentDSI.Text = "Agent(DSI)";
             this.BAgentDSI.UseVisualStyleBackColor = true;
@@ -45,9 +45,9 @@
             // 
             // BAgentUtilisateur
             // 
-            this.BAgentUtilisateur.Location = new System.Drawing.Point(408, 199);
+            this.BAgentUtilisateur.Location = new System.Drawing.Point(417, 199);
             this.BAgentUtilisateur.Name = "BAgentUtilisateur";
-            this.BAgentUtilisateur.Size = new System.Drawing.Size(98, 23);
+            this.BAgentUtilisateur.Size = new System.Drawing.Size(168, 56);
             this.BAgentUtilisateur.TabIndex = 1;
             this.BAgentUtilisateur.Text = "Agent(utilisateur)";
             this.BAgentUtilisateur.UseVisualStyleBackColor = true;
@@ -57,7 +57,7 @@
             // 
             this.labelChoisirUtilisateur.AutoSize = true;
             this.labelChoisirUtilisateur.BackColor = System.Drawing.Color.Azure;
-            this.labelChoisirUtilisateur.Location = new System.Drawing.Point(342, 141);
+            this.labelChoisirUtilisateur.Location = new System.Drawing.Point(337, 141);
             this.labelChoisirUtilisateur.Name = "labelChoisirUtilisateur";
             this.labelChoisirUtilisateur.Size = new System.Drawing.Size(93, 13);
             this.labelChoisirUtilisateur.TabIndex = 2;
